@@ -1,0 +1,5 @@
+[07-Jun-2018 16:25:49 UTC] PHP Notice:  Use of undefined constant ERROR1 - assumed 'ERROR1' in /home/hcemr8ri9wai/public_html/users/gologin/index.php on line 36
+[07-Jun-2018 17:14:41 UTC] PHP Notice:  Use of undefined constant ERROR1 - assumed 'ERROR1' in /home/hcemr8ri9wai/public_html/users/gologin/index.php on line 36
+[07-Jun-2018 17:14:53 UTC] PHP Notice:  Use of undefined constant ERROR1 - assumed 'ERROR1' in /home/hcemr8ri9wai/public_html/users/gologin/index.php on line 36
+[14-Jun-2018 10:35:52 UTC] PHP Notice:  Use of undefined constant ERROR1 - assumed 'ERROR1' in /home/hcemr8ri9wai/public_html/users/gologin/index.php on line 36
+[01-Aug-2018 13:54:55 UTC] PHP Notice:  Undefined index: l in /home/hcemr8ri9wai/public_html/users/gologin/go.php on line 30

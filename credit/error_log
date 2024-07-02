@@ -1,0 +1,181 @@
+[18-Feb-2018 09:28:26 UTC] PHP Notice:  Undefined index: req in /home/hcemr8ri9wai/public_html/users/session.php on line 26
+[18-Feb-2018 09:28:26 UTC] PHP Notice:  Undefined index: req in /home/hcemr8ri9wai/public_html/users/session.php on line 30
+[18-Feb-2018 09:28:26 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[18-Feb-2018 09:28:26 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[18-Feb-2018 09:29:37 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[18-Feb-2018 09:29:37 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[18-Feb-2018 09:29:40 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[18-Feb-2018 09:29:40 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[18-Feb-2018 09:33:29 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[18-Feb-2018 09:33:29 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[18-Feb-2018 09:34:03 UTC] PHP Notice:  Undefined index: req in /home/hcemr8ri9wai/public_html/users/session.php on line 26
+[18-Feb-2018 09:34:03 UTC] PHP Notice:  Undefined index: req in /home/hcemr8ri9wai/public_html/users/session.php on line 30
+[18-Feb-2018 09:34:03 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[18-Feb-2018 09:34:03 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[18-Feb-2018 09:56:43 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[18-Feb-2018 09:57:05 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[18-Feb-2018 09:57:45 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[18-Feb-2018 09:58:05 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[18-Feb-2018 09:58:48 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[18-Feb-2018 09:58:58 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[18-Feb-2018 10:00:54 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[18-Feb-2018 10:01:00 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[18-Feb-2018 10:01:28 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[18-Feb-2018 10:02:05 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[18-Feb-2018 10:46:28 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[18-Feb-2018 10:46:28 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[18-Feb-2018 10:50:34 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[18-Feb-2018 10:50:34 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[19-Feb-2018 12:42:44 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[19-Feb-2018 12:42:50 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[22-Feb-2018 15:30:58 UTC] PHP Warning:  A non-numeric value encountered in /home/hcemr8ri9wai/public_html/users/credit/due.php on line 55
+[22-Feb-2018 15:30:58 UTC] PHP Warning:  A non-numeric value encountered in /home/hcemr8ri9wai/public_html/users/credit/due.php on line 55
+[22-Feb-2018 15:32:42 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[26-Feb-2018 13:09:30 UTC] PHP Notice:  Undefined index: name in /home/hcemr8ri9wai/public_html/users/credit/create.php on line 27
+[26-Feb-2018 13:09:30 UTC] PHP Notice:  Undefined index: name in /home/hcemr8ri9wai/public_html/users/credit/create.php on line 27
+[26-Feb-2018 13:11:25 UTC] PHP Notice:  Undefined index: name in /home/hcemr8ri9wai/public_html/users/credit/create.php on line 27
+[26-Feb-2018 13:11:25 UTC] PHP Notice:  Undefined index: name in /home/hcemr8ri9wai/public_html/users/credit/create.php on line 27
+[26-Feb-2018 13:11:27 UTC] PHP Notice:  Undefined index: name in /home/hcemr8ri9wai/public_html/users/credit/create.php on line 27
+[26-Feb-2018 13:11:27 UTC] PHP Notice:  Undefined index: name in /home/hcemr8ri9wai/public_html/users/credit/create.php on line 27
+[26-Feb-2018 13:11:28 UTC] PHP Notice:  Undefined index: name in /home/hcemr8ri9wai/public_html/users/credit/create.php on line 27
+[26-Feb-2018 13:11:28 UTC] PHP Notice:  Undefined index: name in /home/hcemr8ri9wai/public_html/users/credit/create.php on line 27
+[26-Feb-2018 13:15:19 UTC] PHP Notice:  Undefined index: name in /home/hcemr8ri9wai/public_html/users/credit/create.php on line 27
+[26-Feb-2018 13:15:19 UTC] PHP Notice:  Undefined index: name in /home/hcemr8ri9wai/public_html/users/credit/create.php on line 27
+[26-Feb-2018 13:16:36 UTC] PHP Notice:  Undefined index: name in /home/hcemr8ri9wai/public_html/users/credit/create.php on line 27
+[26-Feb-2018 13:16:36 UTC] PHP Notice:  Undefined index: name in /home/hcemr8ri9wai/public_html/users/credit/create.php on line 27
+[01-Mar-2018 15:28:47 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[01-Mar-2018 15:28:47 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[04-Mar-2018 09:01:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/hcemr8ri9wai/public_html/users/session.php on line 2
+[04-Mar-2018 09:01:45 UTC] PHP Notice:  Undefined index: req in /home/hcemr8ri9wai/public_html/users/session.php on line 27
+[04-Mar-2018 09:01:45 UTC] PHP Notice:  Undefined index: req in /home/hcemr8ri9wai/public_html/users/session.php on line 31
+[04-Mar-2018 09:01:45 UTC] PHP Warning:  include(menu.php): failed to open stream: No such file or directory in /home/hcemr8ri9wai/public_html/users/credit/credit.php on line 35
+[04-Mar-2018 09:01:45 UTC] PHP Warning:  include(): Failed opening 'menu.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/hcemr8ri9wai/public_html/users/credit/credit.php on line 35
+[04-Mar-2018 09:01:45 UTC] PHP Notice:  Undefined index: name in /home/hcemr8ri9wai/public_html/users/credit/credit.php on line 49
+[04-Mar-2018 09:01:45 UTC] PHP Notice:  Undefined index: search in /home/hcemr8ri9wai/public_html/users/credit/credit.php on line 112
+[04-Mar-2018 09:01:45 UTC] PHP Notice:  Undefined index: search in /home/hcemr8ri9wai/public_html/users/credit/credit.php on line 117
+[04-Mar-2018 09:01:45 UTC] PHP Notice:  Undefined index: search in /home/hcemr8ri9wai/public_html/users/credit/credit.php on line 121
+[04-Mar-2018 09:03:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/hcemr8ri9wai/public_html/users/session.php on line 2
+[04-Mar-2018 09:03:25 UTC] PHP Notice:  Undefined index: req in /home/hcemr8ri9wai/public_html/users/session.php on line 27
+[04-Mar-2018 09:03:25 UTC] PHP Notice:  Undefined index: req in /home/hcemr8ri9wai/public_html/users/session.php on line 31
+[04-Mar-2018 09:03:25 UTC] PHP Warning:  include(menu.php): failed to open stream: No such file or directory in /home/hcemr8ri9wai/public_html/users/credit/credit.php on line 35
+[04-Mar-2018 09:03:25 UTC] PHP Warning:  include(): Failed opening 'menu.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/hcemr8ri9wai/public_html/users/credit/credit.php on line 35
+[04-Mar-2018 09:03:25 UTC] PHP Notice:  Undefined index: name in /home/hcemr8ri9wai/public_html/users/credit/credit.php on line 49
+[04-Mar-2018 09:03:25 UTC] PHP Notice:  Undefined index: search in /home/hcemr8ri9wai/public_html/users/credit/credit.php on line 112
+[04-Mar-2018 09:03:25 UTC] PHP Notice:  Undefined index: search in /home/hcemr8ri9wai/public_html/users/credit/credit.php on line 117
+[04-Mar-2018 09:03:25 UTC] PHP Notice:  Undefined index: search in /home/hcemr8ri9wai/public_html/users/credit/credit.php on line 121
+[05-Mar-2018 05:50:00 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[05-Mar-2018 05:50:00 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[09-Mar-2018 07:29:40 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[09-Mar-2018 07:29:40 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[09-Mar-2018 14:13:48 UTC] PHP Notice:  Undefined index: id in /home/hcemr8ri9wai/public_html/users/credit/view.php on line 96
+[12-Mar-2018 15:35:35 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[13-Mar-2018 03:09:32 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[13-Mar-2018 03:09:32 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[15-Mar-2018 03:02:28 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[15-Mar-2018 03:02:28 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[15-Mar-2018 10:42:51 UTC] PHP Notice:  Undefined index: req in /home/hcemr8ri9wai/public_html/users/credit/create.php on line 12
+[15-Mar-2018 12:22:00 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[15-Mar-2018 12:22:00 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[18-Mar-2018 06:10:44 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[25-Mar-2018 03:34:36 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[25-Mar-2018 03:34:36 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[30-Mar-2018 07:15:44 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[30-Mar-2018 07:15:44 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[30-Mar-2018 07:15:45 UTC] PHP Notice:  Undefined index: user in /home/hcemr8ri9wai/public_html/users/session.php on line 14
+[30-Mar-2018 07:15:45 UTC] PHP Notice:  Undefined index: req in /home/hcemr8ri9wai/public_html/users/session.php on line 27
+[30-Mar-2018 07:15:45 UTC] PHP Notice:  Undefined index: req in /home/hcemr8ri9wai/public_html/users/session.php on line 31
+[30-Mar-2018 07:16:08 UTC] PHP Notice:  Undefined index: id in /home/hcemr8ri9wai/public_html/users/credit/view.php on line 96
+[11-Apr-2018 12:34:53 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[11-Apr-2018 12:34:53 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[11-Apr-2018 12:34:59 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[11-Apr-2018 12:34:59 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[18-Apr-2018 03:39:03 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[18-Apr-2018 03:39:03 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[18-Apr-2018 03:39:07 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[18-Apr-2018 03:39:07 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[18-Apr-2018 03:39:11 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[18-Apr-2018 03:39:11 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[18-Apr-2018 03:39:16 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[18-Apr-2018 03:39:16 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[18-Apr-2018 03:40:01 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[18-Apr-2018 03:40:01 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[18-Apr-2018 03:40:05 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[18-Apr-2018 03:40:05 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[19-Apr-2018 07:52:18 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[19-Apr-2018 07:52:18 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[19-Apr-2018 07:52:25 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[19-Apr-2018 07:52:25 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[21-Apr-2018 03:41:48 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[21-Apr-2018 03:41:48 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[21-Apr-2018 03:41:51 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[21-Apr-2018 03:41:51 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[21-Apr-2018 03:41:56 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[21-Apr-2018 03:41:56 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[21-Apr-2018 03:42:03 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[21-Apr-2018 03:42:03 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[21-Apr-2018 03:42:07 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[21-Apr-2018 03:42:07 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[21-Apr-2018 03:42:11 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[21-Apr-2018 03:42:11 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[21-Apr-2018 03:42:16 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[21-Apr-2018 03:42:16 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[21-Apr-2018 03:42:20 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[21-Apr-2018 03:42:20 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[21-Apr-2018 03:42:24 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[21-Apr-2018 03:42:24 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[26-May-2018 11:13:10 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[26-May-2018 11:13:10 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[26-May-2018 11:13:54 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[26-May-2018 11:13:54 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[26-May-2018 11:13:57 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[26-May-2018 11:13:57 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[26-May-2018 11:13:59 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[26-May-2018 11:13:59 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[26-May-2018 11:14:02 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[26-May-2018 11:14:02 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[26-May-2018 11:14:06 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[26-May-2018 11:14:06 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[01-Jun-2018 12:40:21 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[01-Jun-2018 12:40:21 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[04-Jun-2018 13:11:14 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[04-Jun-2018 13:11:14 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[05-Jun-2018 03:55:14 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[05-Jun-2018 03:55:14 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[05-Jun-2018 03:55:34 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[05-Jun-2018 03:55:34 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[05-Jun-2018 12:57:05 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[05-Jun-2018 12:57:05 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[07-Jun-2018 02:15:47 UTC] PHP Notice:  Undefined variable: sms in /home/hcemr8ri9wai/public_html/users/credit/due.php on line 30
+[07-Jun-2018 02:19:43 UTC] PHP Notice:  Undefined variable: sms in /home/hcemr8ri9wai/public_html/users/credit/due.php on line 31
+[07-Jun-2018 02:21:09 UTC] PHP Notice:  Undefined variable: sms in /home/hcemr8ri9wai/public_html/users/credit/due.php on line 31
+[07-Jun-2018 02:21:52 UTC] PHP Notice:  Undefined variable: sms in /home/hcemr8ri9wai/public_html/users/credit/due.php on line 31
+[07-Jun-2018 02:22:19 UTC] PHP Notice:  Undefined variable: sms in /home/hcemr8ri9wai/public_html/users/credit/due.php on line 31
+[07-Jun-2018 02:39:10 UTC] PHP Notice:  Undefined variable: sms in /home/hcemr8ri9wai/public_html/users/credit/due.php on line 31
+[07-Jun-2018 02:42:56 UTC] PHP Notice:  Undefined variable: sms in /home/hcemr8ri9wai/public_html/users/credit/due.php on line 31
+[07-Jun-2018 02:46:10 UTC] PHP Notice:  Undefined variable: sms in /home/hcemr8ri9wai/public_html/users/credit/due.php on line 31
+[07-Jun-2018 02:46:41 UTC] PHP Notice:  Undefined variable: sms in /home/hcemr8ri9wai/public_html/users/credit/due.php on line 31
+[07-Jun-2018 02:46:50 UTC] PHP Notice:  Undefined variable: sms in /home/hcemr8ri9wai/public_html/users/credit/due.php on line 31
+[08-Jun-2018 15:33:29 UTC] PHP Notice:  Undefined variable: sms in /home/hcemr8ri9wai/public_html/users/credit/due.php on line 31
+[08-Jun-2018 16:03:28 UTC] PHP Notice:  Undefined variable: sms in /home/hcemr8ri9wai/public_html/users/credit/due.php on line 31
+[11-Jun-2018 11:31:40 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[11-Jun-2018 11:31:40 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[12-Jun-2018 07:58:06 UTC] PHP Notice:  Undefined variable: sms in /home/hcemr8ri9wai/public_html/users/credit/due.php on line 31
+[12-Jun-2018 08:14:53 UTC] PHP Parse error:  syntax error, unexpected '$ch' (T_VARIABLE) in /home/hcemr8ri9wai/public_html/users/sms.php on line 12
+[12-Jun-2018 12:18:32 UTC] PHP Parse error:  syntax error, unexpected 'smsdb' (T_STRING) in /home/hcemr8ri9wai/public_html/users/sms.php on line 17
+[12-Jun-2018 12:18:52 UTC] PHP Parse error:  syntax error, unexpected 'smsdb' (T_STRING) in /home/hcemr8ri9wai/public_html/users/sms.php on line 17
+[12-Jun-2018 12:29:16 UTC] PHP Notice:  Undefined variable: con in /home/hcemr8ri9wai/public_html/users/sms.php on line 72
+[12-Jun-2018 12:29:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/hcemr8ri9wai/public_html/users/sms.php:72
+Stack trace:
+#0 /home/hcemr8ri9wai/public_html/users/sms.php(17): smsdb('$curl_scraped_p...', '$mo')
+#1 /home/hcemr8ri9wai/public_html/users/credit/due.php(52): sms('9837060028', '\xE0\xA4\xB9\xE0\xA5\x88\xE0\xA4\xB2\xE0\xA5\x8B VI...', 'OMHARI')
+#2 {main}
+  thrown in /home/hcemr8ri9wai/public_html/users/sms.php on line 72
+[12-Jun-2018 12:30:08 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 21
+[12-Jun-2018 12:30:08 UTC] PHP Notice:  Undefined variable: date in /home/hcemr8ri9wai/public_html/users/credit/smstoday.php on line 31
+[12-Jun-2018 12:30:09 UTC] PHP Notice:  Undefined variable: con in /home/hcemr8ri9wai/public_html/users/sms.php on line 72
+[12-Jun-2018 12:30:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/hcemr8ri9wai/public_html/users/sms.php:72
+Stack trace:
+#0 /home/hcemr8ri9wai/public_html/users/sms.php(17): smsdb('$curl_scraped_p...', '$mo')
+#1 /home/hcemr8ri9wai/public_html/users/credit/smstoday.php(55): sms('9837060028,', '\xE0\xA4\xB9\xE0\xA5\x88\xE0\xA4\xB2\xE0\xA5\x8B VI...', 'OMHARI')
+#2 {main}
+  thrown in /home/hcemr8ri9wai/public_html/users/sms.php on line 72

@@ -1,0 +1,133 @@
+ @font-face {
+                font-family: 'Akshar Unicode Regular';
+                src: url(/font/akshar_0.ttf);
+            }
+            body{
+                    padding:0;
+                    margin:0;
+                    background-color:#e8e8e8;
+                    font-family: 'Akshar Unicode Regular';
+            }
+            table.report{
+                    border-collapse:collapse;
+                    border:1px solid #CCC;	
+                    width: 85%;
+                    max-width: 1024px;
+                    min-width: 960px;
+                    background-color: #fff;
+                    background-position: center 300px;
+                    background-repeat: no-repeat;
+                    background-size: 300px auto;
+            }
+            table.report tr td.heading{
+                    color:#000;
+                    padding:20px;
+                    text-align:center;
+            }
+            table.report tr.sub-heading td{
+                    color:#000;
+                    font-size:12px;
+                    padding:5px 10px;
+                    text-align:left;
+                    line-height: 17px;
+            }
+            table.report thead tr.sub-heading th, table.report tbody tr.sub-heading th{
+                    color:#000;
+                    font-size:12px;
+                    padding:5px 10px;
+                    text-align:left;
+                    line-height: 17px;
+            }
+            table.report thead tr.sub-heading th{
+                    border:1px solid #AEAEAE;
+                    font-family: 'Akshar Unicode Regular';
+            }
+            table.report tr td{
+                    border:1px solid #AEAEAE;
+                    font-family: 'Akshar Unicode Regular';
+            }
+            .float-left{
+                float: left;
+            }
+            .float-right{
+                float: right;
+            }
+            .float-clear{
+                clear: both;
+            }
+            thead {
+                display:table-header-group;
+            }
+            tbody {
+                display:table-row-group;
+            }
+            .hide-on-print{
+                display: table-row;
+            }
+            .hide-on-print{
+                display: none;
+            }
+            .show-on-print{
+                display: table-row;
+            }
+            .key-board-container {
+                display: none !important;
+            }
+            @media print{
+                @page {size: landscape; margin:2cm}
+            }
+            
+            
+            header, main, footer{
+                width: 85%;
+                max-width: 1024px;
+                min-width: 960px;
+                background-color: #000;
+                color: #fff;
+                font-family: sans-serif;
+            }
+            header .inner .main-logo{
+                font-size: 20px;
+                font-weight: bold;
+                padding: 20px;
+            }
+            header .inner .action-link{
+                padding: 20px;
+            }
+            header .inner .action-link a{
+                text-decoration: none;
+                font-size: 20px;
+                color: #f5f5f5;
+            }
+            .map{
+                /*title:"Show Map";*/
+                text-decoration: none;
+                color:#000;
+                display: inline-block;
+            }
+            .map:hover {
+                title:"Show map";
+                position: relative;
+                text-decoration: none;
+                display: inline-block;
+                color: #3673AC;
+                
+            }
+            .map:hover:after {
+                /*title:"Show map";*/
+                content: "\f041";
+                font-size: 30px;
+                /*content:"sh";*/
+                color: #3673AC;
+                font-family: FontAwesome;
+                /*content: url(../../images/map_marker.png);*/
+                width:10%;
+                height: 10%;
+                /* no need for qoutes */
+                display: block;
+                position: absolute;
+                left: 25px;  
+                top: 3px; 
+                /*right: 25px;*/
+            }
+            
